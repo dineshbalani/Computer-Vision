@@ -13,6 +13,7 @@ input3A.jpg input3B.jpg - Input for Task 3 (Laplacian blending)
 Output Images: /Result Folder
 
 To run the program:
+
 dbalani@dbalani:~/HW1-Filters$ python main.py 1 input1.jpg /home/dbalani/HW1-Filters/
 dbalani@dbalani:~/HW1-Filters$ python main.py 2 input2.png blurred2.exr /home/dbalani/HW1-Filters/
 dbalani@dbalani:~/HW1-Filters$ python main.py 3 input3A.jpg input3B.jpg /home/dbalani/HW1-Filters/

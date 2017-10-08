@@ -1,4 +1,4 @@
-An OpenCV python program to do the following things:
+An OpenCV python program to do the following things :
 
 Read an image from a file and display it to the screen
 

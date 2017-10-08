@@ -1,4 +1,4 @@
-An OpenCV program to do the following things:
+An OpenCV python program to do the following things:
 
 1.Perform Histogram Equalization on the given input image.
 2.Perform Low-Pass, High-Pass and Deconvolution on the given input image.
@@ -14,6 +14,6 @@ Output Images: /Result Folder
 
 To run the program:
 
-dbalani@dbalani:/HW1-Filters$ python main.py 1 input1.jpg /home/dbalani/HW1-Filters/
-dbalani@dbalani:/HW1-Filters$ python main.py 2 input2.png blurred2.exr /home/dbalani/HW1-Filters/
-dbalani@dbalani:/HW1-Filters$ python main.py 3 input3A.jpg input3B.jpg /home/dbalani/HW1-Filters/
+dbalani@dbalani:/HW1-Filters$ python main.py 1 ./Source/input1.jpg ./Result/
+dbalani@dbalani:/HW1-Filters$ python main.py 2 ./Source/input2.png ./Source/blurred2.exr ./Result/
+dbalani@dbalani:/HW1-Filters$ python main.py 3 ./Source/input3A.jpg ./Source/input3B.jpg ./Result/
